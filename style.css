@@ -35,6 +35,16 @@ li label {
     padding: 10px;
 }
 
+#card-repost {
+    border: solid 1px;
+    border-radius: 20px;
+    margin: 0 0 0.2em 0;
+    width: 10em;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
 .button-enviar {
    border-radius: 20px;
    width: 150px;
